@@ -1,17 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-FTIR Designer — PyQt5 (Ultra Pro)
-
-Neler yeni?
-- Çok daha stabil: *yıldız import* kaldırıldı, giriş kontrolü ve hata yakalama eklendi
-- UI donmalarını azaltan **debounce** (50 ms) yeniden-hesaplama zamanlayıcısı
-- Aşırı örnekleme/Nt*M büyükse performans uyarısı ve güvenli sınırlar
-- CSV okuma/çıktı için sağlamlaştırılmış kod (kodlama algılama, başlık satırı toleransı)
-- Basit **preset** kaydet/yükle (JSON) — aynı tasarımı tekrar çağırın
-- 2B/3B çizim ve FFT tarafında sayısal kararlılık iyileştirmeleri
-- Kod yapısı sadeleştirildi, tekrar eden yardımcılar kaldırıldı
-
-Bağımlılıklar: PyQt5, numpy, matplotlib
+17.10.2025 - 17:32
+Developed by Özgür Özcan
 """
 from __future__ import annotations
 
